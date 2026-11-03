@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-tauri-kv",
+  "version": "1.0.0",
+  "description": "Tauri cross-platform local storage engine powered by kvdock",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.1"
+  },
+  "license": "MIT"
+}
